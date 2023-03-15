@@ -1,0 +1,12 @@
+ktd-grid-item {
+   box-shadow: 2px 2px 2px 2px rgb(153, 152, 152);
+}
+
+.container {
+    margin: 2rem;
+    width: 100vw;
+}
+
+.item {
+    margin: 3rem;
+}
